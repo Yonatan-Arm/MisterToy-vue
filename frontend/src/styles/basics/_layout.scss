@@ -1,0 +1,21 @@
+.main-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap:1rem;
+    padding: 10px;
+    
+}
+.main-layout {
+   width: 90vw;
+   padding: 1rem;
+    
+}
+.edit-layout{
+    height: 70vh;
+    width: 80vw;
+  
+}
+
+.main-text {
+    margin-bottom: rem(90px);
+}

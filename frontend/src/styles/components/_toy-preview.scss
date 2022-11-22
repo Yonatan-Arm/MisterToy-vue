@@ -1,0 +1,26 @@
+.toy-preview{
+    background-color: $clr7;
+    box-shadow: 2px 3px 2px 2px rgba(0,0,0,0.39);
+    padding: .5rem;
+    justify-content: center;
+}
+.btn-action{
+    flex-direction: column;
+    width: 30%;
+    gap: .5rem;
+    margin-inline-start: 20%;
+
+}
+.toy-card{
+    flex-direction: column;
+}
+.img-toy{
+    width: 50%;
+}
+.add-toy{
+    color: $clr2;
+    margin-left: 40px;
+}
+.add-toy:hover{
+    color: $clr3;
+}
